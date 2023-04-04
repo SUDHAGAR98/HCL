@@ -16,6 +16,18 @@ public class Employe {
 
 	}
 
+
+	private void method7() {
+
+	}
+	private void method8() {
+
+	}
+	private void method9() {
+
+	}
+	
+
 	private void method10() {
 
 	}
@@ -28,7 +40,5 @@ public class Employe {
 
 	}
 
-	
-	
 	
 }
